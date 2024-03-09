@@ -5,5 +5,6 @@ if(x<y)
   console.log("x is less than y");
 }
 else{
-  console.log("y is less than x");
+  console.log("y is less than x")
 }
+
