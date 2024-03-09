@@ -2,8 +2,8 @@ let x=10;
 let y=20;
 if(x<y)
 {
-  console.log("X is less then y");
+  console.log("x is less than y");
 }
 else{
-  console.log("y is less then x");
+  console.log("y is less than x");
 }
